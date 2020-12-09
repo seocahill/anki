@@ -1,0 +1,385 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "bcabc12e-3a6c-11eb-b78e-acde48001122",
+    "deck_config_uuid": "bcabc78c-3a6c-11eb-b78e-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "bcabc78c-3a6c-11eb-b78e-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 10
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "Clt_Goid_Ir_Cnght_MayoNth_Carrowteige_Dl_765_alive_biwos.mp3",
+        "air.mp3",
+        "airee.mp3",
+        "ballina.mp3",
+        "bellmullet-alt.mp3",
+        "bellmullet.mp3",
+        "beo.mp3",
+        "bheadh.mp3",
+        "bheadhf.mp3",
+        "bhi-me-ag-obair.mp3",
+        "deirigh.mp3",
+        "deirighee.mp3",
+        "dfheadadh.mp3",
+        "iarraidh.mp3",
+        "lei.mp3",
+        "mharu.mp3",
+        "ni-deirigh-abairt.mp3",
+        "obair.mp3",
+        "obee.mp3",
+        "rinne-abairt.mp3",
+        "rinne.mp3",
+        "tar.mp3",
+        "tig-leat-abhaile.mp3",
+        "tig-leat.mp3",
+        "tiocfadh.mp3"
+    ],
+    "mid": 1531866418455,
+    "name": "Gaeilge Mhaigh Eo",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Focal",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Abairt",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Word",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sentence",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        2,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<p>{{Word}}</p>\n<p>{{Sentence}}</p>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<p>\n{{Focal}}\n</p>\n<p>\n{{Abairt}}\n</p>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p>{{Focal}}</p>\n<p>{{Abairt}}</p>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "<p>{{Word}}</p>\n<p>{{Sentence}}</p>"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "tig leat[sound:tig-leat.mp3]",
+                "Tig leat ghoil abhaile[sound:tig-leat-abhaile.mp3]",
+                "Can you",
+                "Can you go home?"
+            ],
+            "guid": "ssfj_:V/>B",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "D'fhéadadh[sound:dfheadadh.mp3]",
+                "",
+                "Could",
+                ""
+            ],
+            "guid": "tqgu%6f1@V",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bheadh[sound:bheadh.mp3][sound:bheadhf.mp3]",
+                "",
+                "Would",
+                ""
+            ],
+            "guid": "B=K:w=wSW-",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An dtiocfadh leat?[sound:tiocfadh.mp3]",
+                "",
+                "Could you?",
+                ""
+            ],
+            "guid": "n1@J=4(BYW",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mharú[sound:mharu.mp3]",
+                "",
+                "Would kill",
+                ""
+            ],
+            "guid": "rlCzMv4?pf",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tar[sound:tar.mp3]",
+                "",
+                "Come",
+                ""
+            ],
+            "guid": "ta$7q,qW;W",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Marbhfháisc",
+                "Marbhfháisc ort!",
+                "the bandage on a corpse",
+                "***** you! (the worst curse you can give to someone)"
+            ],
+            "guid": "A8JS%MAly5",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Spaisteoireacht",
+                "",
+                "Strolling",
+                ""
+            ],
+            "guid": "LmPxb[a<#O",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "obair[sound:obair.mp3][sound:obee.mp3]",
+                "(bhí) mé ag obair[sound:bhi-me-ag-obair.mp3]",
+                "work",
+                "I was working"
+            ],
+            "guid": "JhmF$AqXLb",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beo[sound:beo.mp3][sound:Clt_Goid_Ir_Cnght_MayoNth_Carrowteige_Dl_765_alive_biwos.mp3]",
+                "",
+                "alive",
+                ""
+            ],
+            "guid": "QG~x7FE~ey",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(ag) iarraidh[sound:iarraidh.mp3]",
+                "",
+                "wanting",
+                ""
+            ],
+            "guid": "zIu*|vhfdK",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "D'éirigh[sound:deirigh.mp3][sound:deirighee.mp3]",
+                "Ní éirigh liom go raibh an dearcadh seo i gceart[sound:ni-deirigh-abairt.mp3]",
+                "arose / succeeded",
+                "I didn't think this view was correct"
+            ],
+            "guid": "y=efp?/hol",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rinne mé[sound:rinne.mp3]",
+                "rinne mé rud eicínt[sound:rinne-abairt.mp3]",
+                "I did",
+                "I did something"
+            ],
+            "guid": "Q^7,/QRh@L",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "air[sound:air.mp3][sound:airee.mp3]",
+                "",
+                "on him",
+                ""
+            ],
+            "guid": "CES`z;c?t:",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Béal an Mhuirthead[sound:bellmullet.mp3][sound:bellmullet-alt.mp3]",
+                "",
+                "Belmullet",
+                ""
+            ],
+            "guid": "f!Q?>&w<1D",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Béal Átha an Fheadha[sound:ballina.mp3]",
+                "",
+                "Ballina (Co. Mayo)",
+                ""
+            ],
+            "guid": "B@v(Y:C6@|",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leí&nbsp;&nbsp;[sound:lei.mp3]",
+                "",
+                "with her",
+                ""
+            ],
+            "guid": "mj}lufVsKs",
+            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "tags": []
+        }
+    ]
+}
