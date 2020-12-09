@@ -1,2 +1,2 @@
 # anki
-North Mayo Irish deck, published under Creative commons Attribution-NonCommercial 3.0 license see licence.md
+North Mayo English / Irish deck, published under Creative commons Attribution-NonCommercial 3.0 license https://creativecommons.org/licenses/by-nc/3.0/
