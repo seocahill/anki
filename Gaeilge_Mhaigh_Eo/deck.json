@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "bcabc12e-3a6c-11eb-b78e-acde48001122",
-    "deck_config_uuid": "bcabc78c-3a6c-11eb-b78e-acde48001122",
+    "crowdanki_uuid": "63df4e00-3fe7-11eb-8eed-acde48001122",
+    "deck_config_uuid": "63df560c-3fe7-11eb-8eed-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "bcabc78c-3a6c-11eb-b78e-acde48001122",
+            "crowdanki_uuid": "63df560c-3fe7-11eb-8eed-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -55,9 +55,11 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        " amharc .mp3",
         "Clt_Goid_Ir_Cnght_MayoNth_Carrowteige_Dl_765_alive_biwos.mp3",
         "air.mp3",
         "airee.mp3",
+        "amharc-go-maith .mp3",
         "ballina.mp3",
         "bellmullet-alt.mp3",
         "bellmullet.mp3",
@@ -65,28 +67,47 @@
         "bheadh.mp3",
         "bheadhf.mp3",
         "bhi-me-ag-obair.mp3",
+        "críochnaithe.mp3",
+        "daoithie.mp3",
+        "deanta.mp3",
+        "dearc.mp3",
         "deirigh.mp3",
         "deirighee.mp3",
         "dfheadadh.mp3",
+        "dhomsa.mp3",
+        "doiligh.mp3",
+        "dubh.mp3",
+        "fagtha.mp3",
+        "fan-bhfeic.mp3",
+        "fuithi.mp3",
+        "futhu.mp3",
         "iarraidh.mp3",
         "lei.mp3",
+        "leo.mp3",
+        "linn.mp3",
+        "lionadh.mp3",
         "mharu.mp3",
         "ni-deirigh-abairt.mp3",
         "obair.mp3",
         "obee.mp3",
         "rinne-abairt.mp3",
         "rinne.mp3",
+        "snamh.mp3",
         "tar.mp3",
         "tig-leat-abhaile.mp3",
         "tig-leat.mp3",
-        "tiocfadh.mp3"
+        "tiocfadh.mp3",
+        "uainn.mp3",
+        "uaith.mp3",
+        "uaithi.mp3",
+        "uathu.mp3"
     ],
     "mid": 1531866418455,
     "name": "Gaeilge Mhaigh Eo",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "crowdanki_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -186,7 +207,7 @@
                 "Can you go home?"
             ],
             "guid": "ssfj_:V/>B",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -198,7 +219,7 @@
                 ""
             ],
             "guid": "tqgu%6f1@V",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -210,7 +231,7 @@
                 ""
             ],
             "guid": "B=K:w=wSW-",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -222,7 +243,7 @@
                 ""
             ],
             "guid": "n1@J=4(BYW",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -234,7 +255,7 @@
                 ""
             ],
             "guid": "rlCzMv4?pf",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -246,7 +267,7 @@
                 ""
             ],
             "guid": "ta$7q,qW;W",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -258,7 +279,7 @@
                 "***** you! (the worst curse you can give to someone)"
             ],
             "guid": "A8JS%MAly5",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -270,7 +291,7 @@
                 ""
             ],
             "guid": "LmPxb[a<#O",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -282,7 +303,7 @@
                 "I was working"
             ],
             "guid": "JhmF$AqXLb",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -294,7 +315,7 @@
                 ""
             ],
             "guid": "QG~x7FE~ey",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -306,7 +327,7 @@
                 ""
             ],
             "guid": "zIu*|vhfdK",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -318,7 +339,7 @@
                 "I didn't think this view was correct"
             ],
             "guid": "y=efp?/hol",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -330,7 +351,7 @@
                 "I did something"
             ],
             "guid": "Q^7,/QRh@L",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -342,7 +363,7 @@
                 ""
             ],
             "guid": "CES`z;c?t:",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -354,7 +375,7 @@
                 ""
             ],
             "guid": "f!Q?>&w<1D",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -366,7 +387,7 @@
                 ""
             ],
             "guid": "B@v(Y:C6@|",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         },
         {
@@ -378,7 +399,247 @@
                 ""
             ],
             "guid": "mj}lufVsKs",
-            "note_model_uuid": "bcac259c-3a6c-11eb-b78e-acde48001122",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "linn[sound:linn.mp3]",
+                "",
+                "with us",
+                ""
+            ],
+            "guid": "s(Gn2ef2{M",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leo[sound:leo.mp3]",
+                "",
+                "with them",
+                ""
+            ],
+            "guid": "DI@RhC+Wc`",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dhomsa&nbsp;&nbsp;[sound:dhomsa.mp3]",
+                "",
+                "to myself",
+                ""
+            ],
+            "guid": "LBD<SkMhF4",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "daoithie (di) [sound:daoithie.mp3]",
+                "",
+                "to her",
+                ""
+            ],
+            "guid": "OqL0IELCcr",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fúithi[sound:fuithi.mp3]",
+                "",
+                "beneath her",
+                ""
+            ],
+            "guid": "ub(WwJvT!c",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fúthu [sound:futhu.mp3]",
+                "",
+                "underneath them",
+                ""
+            ],
+            "guid": "C?vsV}Xrsx",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "uaidh [sound:uaith.mp3]",
+                "",
+                "from him",
+                ""
+            ],
+            "guid": "cKifAmWn^7",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "uaithi[sound:uaithi.mp3]",
+                "",
+                "from her",
+                ""
+            ],
+            "guid": ">Xe}O+;X(",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "uainn [sound:uainn.mp3]",
+                "",
+                "from us",
+                ""
+            ],
+            "guid": "eoG8;Y#IK@",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "uathu&nbsp;[sound:uathu.mp3]",
+                "",
+                "from them",
+                ""
+            ],
+            "guid": "jnu:k7;nMi",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "doiligh[sound:doiligh.mp3]",
+                "",
+                "difficult",
+                ""
+            ],
+            "guid": "BDL,Tv:,q@",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dearc",
+                "Dhearc mé thart<div>Dhearc mé isteach sa mala</div><div>Dearcann mé ar an teilí chuile oíche</div><div>[sound:dearc.mp3]<br></div>",
+                "look (commonly used)",
+                "I looked around<div>I looked in the bag</div><div>I look at the tv every night</div>"
+            ],
+            "guid": "NRfSoDb<~D",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(ag) amharc&nbsp;[sound: amharc .mp3]",
+                "Tá tú ag amharc go maith inniú&nbsp;[sound:amharc-go-maith .mp3]",
+                "look (ing)",
+                "You're looking well today!"
+            ],
+            "guid": "igfUz0JNf$",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(ag) líonadh&nbsp;[sound:lionadh.mp3]",
+                "",
+                "Filling",
+                ""
+            ],
+            "guid": "xdvpfX)=^>",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fan",
+                "Fan go bhfeicfidh mé&nbsp;[sound:fan-bhfeic.mp3]",
+                "Wait",
+                "Wait 'til I see"
+            ],
+            "guid": "rAK3=Jac[}",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dubh&nbsp;[sound:dubh.mp3]",
+                "",
+                "black",
+                ""
+            ],
+            "guid": "e55NWEKfI7",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(ag)&nbsp;snámh&nbsp;[sound:snamh.mp3]",
+                "",
+                "swimming&nbsp;",
+                ""
+            ],
+            "guid": "ch_jO{@ji@",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fágtha&nbsp;[sound:fagtha.mp3]",
+                "",
+                "left / abandoned",
+                ""
+            ],
+            "guid": "t~U_?6}665",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "déanta&nbsp;[sound:deanta.mp3]",
+                "",
+                "done",
+                ""
+            ],
+            "guid": "q5c1oeb,w6",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "críochnaithe&nbsp;&nbsp;[sound:críochnaithe.mp3]",
+                "",
+                "finished",
+                ""
+            ],
+            "guid": "r%?7d!ld!~",
+            "note_model_uuid": "63dfac24-3fe7-11eb-8eed-acde48001122",
             "tags": []
         }
     ]
